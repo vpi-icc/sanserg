@@ -44,3 +44,7 @@ footer {
 footer a {
 	padding: 25px;
 }
+
+footer a img {
+    margin-bottom: 25px;
+}
