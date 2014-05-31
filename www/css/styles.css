@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+* {
+	font-family: 'Ubuntu Condensed', sans-serif;	
+}
+
+header h1 small {
+	padding-left: 2px;	
+}
+
+#intro {
+	margin: 25px 0 50px 0;
+}
+
+#intro blockquote {
+	font-size: 22px;
+}
+
+footer {
+	margin: 55px 0;	
+}
+
+footer a {
+	padding: 25px;
+}
