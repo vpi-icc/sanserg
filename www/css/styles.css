@@ -4,8 +4,28 @@
 	font-family: 'Ubuntu Condensed', sans-serif;	
 }
 
+header {
+    background: #555;
+}
+
+header h1 {
+    color: #ddd;
+    text-shadow: 1px 1px 0px #222;
+}
+
 header h1 small {
-	padding-left: 2px;	
+	padding-left: 2px;
+    color: #ccc;
+    text-shadow: none;
+}
+
+#main {
+    background: #eee;
+    padding-top: 15px;
+}
+
+#main .thumbnail {
+    padding-top: 45px;
 }
 
 #intro {
@@ -13,6 +33,7 @@ header h1 small {
 }
 
 #intro blockquote {
+    margin-top: 30px;
 	font-size: 22px;
 }
 
