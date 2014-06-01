@@ -13,7 +13,9 @@ header h1 {
     text-shadow: 1px 1px 0px #222;
 }
 
-header h1 small {
+header h2 {
+    font-size: 1.8em;
+    margin-top: 0;
 	padding-left: 2px;
     color: #ccc;
     text-shadow: none;
@@ -42,9 +44,9 @@ footer {
 }
 
 footer a {
-	padding: 25px;
+
 }
 
 footer a img {
-    margin-bottom: 25px;
+    margin: 25px;
 }
